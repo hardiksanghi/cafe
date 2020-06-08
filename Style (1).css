@@ -1,0 +1,40 @@
+body{
+    
+}
+div{
+    
+}
+video{ 
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+    opacity: 0.8;
+}
+
+
+h1{
+    text-align: center;
+    color: #1C9DB2;
+    font-family: 'Lobster', cursive;
+}
+ol{
+    font-family: 'Russo One', sans-serif;
+    color: #980107;
+}
+h2{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    color: black;
+}
+p{
+    text-align: center;
+    color: red;
+    height: 3em;
+    font-family: 'Alfa Slab One', cursive;
+}
